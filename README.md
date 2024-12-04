@@ -1,5 +1,5 @@
 # Python_practice
-Python exercises
+Python exam
 
 Spellchecking python program: 
 
